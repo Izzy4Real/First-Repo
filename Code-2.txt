@@ -6,4 +6,5 @@ private class M04 : LIT
 		return new List<string>();
 		}
 	public string newString= "this is a new string."
+	public stirng conflictString = "this string will be in conflict with BranchForConflict or with master.";
 }
