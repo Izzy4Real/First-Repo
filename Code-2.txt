@@ -1,6 +1,6 @@
 private class M04 : LIT
 {
-	public int x=15;
+	public int x=20;
 	public List<string> stringList()
 		{
 		return new List<string>();
