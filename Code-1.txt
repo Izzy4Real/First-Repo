@@ -1,3 +1,4 @@
 public class LIT(){
 return new Programmer();
+Programmer.Skills.Add(Git);
 }
