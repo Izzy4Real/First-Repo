@@ -1,4 +1,8 @@
 public class LIT(){
 return new Programmer();
 conflict, please
+<<<<<<< HEAD
 some other stuff
+=======
+hello world
+>>>>>>> test
